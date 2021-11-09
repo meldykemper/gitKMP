@@ -1,0 +1,10 @@
+{
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+   
+     "pytest.command": "/Users/datoux/.virtualenvs/demo-mLN-1lcH/bin/pytest"
+      
+}
